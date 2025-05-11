@@ -47,8 +47,8 @@ Since this application is build using Visual Basic the TLS support is limited. Y
 To build this application you will need Visual Basic 6. Fork this repository, clone it and get building!
 
 # Kudos
-to yeokm1 for the proxy portion
-to wqweto for the JSON parser
+- to yeokm1 for the proxy portion
+- to wqweto for the JSON parser
 
 # Licensing
 Everything here built by myself you can use freely any way you like following the MIT-license.
