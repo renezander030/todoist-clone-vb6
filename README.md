@@ -1,5 +1,6 @@
 # Yet Another Todoist Clone (YATC)
 ![Screenshot of Todoist-Clone-VB6](demo.png)
+![Comparison Original Clone](comparison.png)
 A Todoist Clone written in Visual Basic 6 with full Windows 98 support!
 
 This is a fun project - made by a Todoist user - not affiliated with Todoist
