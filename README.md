@@ -12,10 +12,8 @@ This is a fun project - made by a Todoist user - not affiliated with Todoist
 - handle umlauts - sync down✅
 - open close side menu with hotkey✅
 - hotkey for new task✅
-- msflexgrid Multiline with Date, Date in Format hh:mm✅
-- msflexgrid align text left✅
 - show task description dialog on click✅
-- sync with S hotkey✅
+- sync with hotkey✅
 - allow to complete tasks✅
 - modern UI title bar buttons✅
 
